@@ -37,12 +37,6 @@
 
 ---
 
-## 🏆 GitHub at a Glance
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nakul-bhatnagar&theme=onedark&no-frame=true&row=1&column=4&margin-w=12&title=Commit,Repositories,Experience,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-bhatnagar-122b42254/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulbhatnagar0212@gmail.com)
@@ -73,9 +67,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nakul-Bhatnagar&theme=dark&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nakul-Bhatnagar&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul-Bhatnagar&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nakul-Bhatnagar&theme=dark&include_all_commits=true&count_private=true)<br />
+![](https://nirzak-streak-stats.vercel.app/?user=Nakul-Bhatnagar&theme=dark)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul-Bhatnagar&theme=dark&layout=compact)
 
 ---
 
