@@ -1,38 +1,39 @@
-# 👋 Hi, I'm Nakul Bhatnagar  
+# Hi, I'm Nakul Bhatnagar  
 
-🎓 Final-year B.Tech CSE student | ☁️ AWS & Cloud Enthusiast | 🧑‍🏫 Tech Trainer  
-🚀 Building scalable cloud & full-stack solutions
+Final-year B.Tech CSE student |  AWS & Cloud Enthusiast |  Tech Trainer  
+Building scalable cloud & full-stack solutions
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-🔭 **Currently Working On**
+
+ **Currently Working On**
 - Cloud & Full-Stack projects using **AWS, React Native, Node.js, MongoDB**
 - **AI-integrated Emergency SOS App** (voice trigger, live location, alerts)
 
-👯 **Looking to Collaborate On**
+ **Looking to Collaborate On**
 - Cloud Computing projects (**AWS**)
 - Full-stack web & mobile applications  
 - Open-source projects (DevOps, Backend, AI integration)
 
-🤝 **Looking for Help With**
+ **Looking for Help With**
 - Advanced **AWS architecture & cost optimization**
 - Real-time systems (**WebSockets, live tracking**)
 - Production-grade deployments & scalability
 
-🌱 **Currently Learning**
+ **Currently Learning**
 - Advanced AWS services (**ECS, EKS, Lambda, CloudWatch**)
 - System design & backend scalability
 - AI integration in real-world applications
 
-💬 **Ask Me About**
+ **Ask Me About**
 - AWS (Cloud basics → advanced)
 - Backend development (**Node.js, MongoDB**)
 - Project planning & system architecture
 
-⚡ **Fun Fact**
-- I love teaching **complex cloud concepts in simple words** and building real-world solutions 🚀
+ **Fun Fact**
+- I love teaching **complex cloud concepts in simple words** and building real-world solutions 
 
 ---
 
