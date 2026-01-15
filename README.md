@@ -39,9 +39,10 @@ Building scalable cloud & full-stack solutions
 
 ## 🏆 GitHub at a Glance
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nakul-bhatnagar&theme=onedark&no-frame=true&row=1&column=4&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=nakul-bhatnagar&theme=onedark&no-frame=true&row=1&column=4&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
 
 
 ## 🌐 Socials:
