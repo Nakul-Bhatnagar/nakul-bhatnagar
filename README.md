@@ -1,5 +1,40 @@
-# 💫 About Me:
-I’m currently working on<br>1.  Cloud & Full-Stack projects using AWS, React Native, Node.js, MongoDB<br>2.  An AI-integrated Emergency SOS App with voice trigger, live location & alerts<br><br>I’m looking to collaborate on<br>1.  Cloud computing projects (AWS)<br>2.  Full-stack web & mobile apps<br>Open-source projects related to DevOps, Backend, or AI integration<br><br>I’m looking for help with<br>1.  Advanced AWS architecture & cost optimization<br>2.  Real-time systems (WebSockets, live tracking)<br>3.  Production-grade deployments & scalability<br><br>I’m currently learning<br>Advanced AWS services (ECS, EKS, Lambda, CloudWatch)<br>System design & backend scalability<br>AI integration in real-world applications<br><br>Ask me about<br>AWS (Cloud basics → advanced)<br>Backend development (Node.js, MongoDB)<br>Project planning & system architecture<br>Cloud cost optimization & best practices<br><br>Fun fact<br>I love teaching complex cloud concepts in simple words and building projects that solve real-world problems
+# 👋 Hi, I'm Nakul Bhatnagar  
+
+🎓 Final-year B.Tech CSE student | ☁️ AWS & Cloud Enthusiast | 🧑‍🏫 Tech Trainer  
+🚀 Building scalable cloud & full-stack solutions
+
+---
+
+## 🧑‍💻 About Me
+
+🔭 **Currently Working On**
+- Cloud & Full-Stack projects using **AWS, React Native, Node.js, MongoDB**
+- **AI-integrated Emergency SOS App** (voice trigger, live location, alerts)
+
+👯 **Looking to Collaborate On**
+- Cloud Computing projects (**AWS**)
+- Full-stack web & mobile applications  
+- Open-source projects (DevOps, Backend, AI integration)
+
+🤝 **Looking for Help With**
+- Advanced **AWS architecture & cost optimization**
+- Real-time systems (**WebSockets, live tracking**)
+- Production-grade deployments & scalability
+
+🌱 **Currently Learning**
+- Advanced AWS services (**ECS, EKS, Lambda, CloudWatch**)
+- System design & backend scalability
+- AI integration in real-world applications
+
+💬 **Ask Me About**
+- AWS (Cloud basics → advanced)
+- Backend development (**Node.js, MongoDB**)
+- Project planning & system architecture
+
+⚡ **Fun Fact**
+- I love teaching **complex cloud concepts in simple words** and building real-world solutions 🚀
+
+---
 
 
 ## 🌐 Socials:
